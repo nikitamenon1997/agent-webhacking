@@ -59,6 +59,7 @@ dependencies = [
     "google-auth-oauthlib==1.2.1",
     "google-cloud-core==2.4.1",
     "googleapis-common-protos==1.66.0",
+    "gradio>=3.18.0",
     "grpcio==1.68.1",
     "h11==0.14.0",
     "html2text==2024.2.26",
@@ -225,4 +226,5 @@ dependencies = [
 [dependency-groups]
 dev = [
     "ipykernel>=6.29.5",
+    "setuptools>=80.9.0",
 ]
