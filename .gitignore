@@ -5,3 +5,4 @@
 __pycache__/
 google/
 .DS_Store
+examples/reports/
